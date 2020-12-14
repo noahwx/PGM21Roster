@@ -1,5 +1,4 @@
-[
-  {
+[{
   "zoneCover": 0,
   "eLength": 2,
   "catching": 0,
@@ -56,8 +55,7 @@
   "draftSeason": 2004,
   "vision": 92,
   "speed": 77
-},
- {
+}, {
   "zoneCover": 0,
   "eLength": 4,
   "catching": 0,
@@ -114,8 +112,7 @@
   "draftSeason": 2020,
   "vision": 90,
   "speed": 88
-}, 
-{
+}, {
   "zoneCover": 0,
   "eLength": 5,
   "catching": 92,
